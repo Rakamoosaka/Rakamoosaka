@@ -21,8 +21,8 @@
   <tr>
     <td style="vertical-align:top;">
       <ul style="list-style-type:none; padding-left:0;">
-        <li>🌱 <strong>Currently Learning:</strong> TypeScript </li>
-        <li>💼 <strong>Interests:</strong> Networking, Building and Contributing Projects </li>
+        <li>🌱 <strong>Currently Learning:</strong> Next.js </li>
+        <li>💼 <strong>Interests:</strong> Networking, Exploring ideas and Building projects </li>
         <li>🎯 <strong>Goal:</strong> Become proficient in building Web-based Applications </li>
       </ul>
     </td>
