@@ -13,32 +13,6 @@
   </a>
 </div>
 <hr/>
-
-
-
-### About Me
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <td style="vertical-align:top;">
-      <ul style="list-style-type:none; padding-left:0;">
-        <li>🌱 <strong>Currently Learning:</strong> Next.js </li>
-        <li>💼 <strong>Interests:</strong> Networking, Exploring ideas and Building projects </li>
-        <li>🎯 <strong>Goal:</strong> Become proficient in building Web-based Applications </li>
-      </ul>
-    </td>
-    <td align="right" style="padding-left:20px; vertical-align:top;">
-      <img width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Coding GIF" style="border-radius:10px;"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💎 My Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,js,ts,css,tailwind,scss,java,python,git" alt="Tech Stack" />
-</div>
-
 ---
 
 ## My Stats
