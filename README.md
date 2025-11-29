@@ -13,8 +13,3 @@
   </a>
 </div>
 <hr/>
-
-## My Stats
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakamoosaka&theme=2077" alt="Stats Card" width="300"/>
-</div>
