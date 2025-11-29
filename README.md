@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Rakamoosaka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <h1 align="center">Hi 👋, I'm Aitore</h1>
-<h3 align="center">Frontend Developer & 1st-year Student at SDU</h3>
+<h3 align="center">Good Person</h3>
 <p align="center">
   <em>"An ordered group of very intelligent words"</em>
 </p>
@@ -13,7 +13,6 @@
   </a>
 </div>
 <hr/>
----
 
 ## My Stats
 <div>
